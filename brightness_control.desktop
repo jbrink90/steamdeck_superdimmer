@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Brightness Control
+Comment=Adjust your screen brightness below OS levels.
+Exec=python3 /home/deck/Downloads/steamdeck_superdimmer/brightness.py
+Icon=face-cool
+Terminal=false
+Type=Application
+Categories=Utility;
